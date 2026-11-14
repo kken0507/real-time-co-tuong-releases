@@ -1,0 +1,43 @@
+Real-Time Cờ Tướng — Terms of Use
+Copyright (c) 2026 kken0507. All rights reserved, except as expressly granted below.
+
+1. What you may do
+   You may, free of charge:
+   (a) play the game ("the Game") for your own enjoyment;
+   (b) copy and redistribute the Game to anyone, free of charge, provided that it is
+       unmodified, exactly as officially distributed, and that this license text and the
+       file LICENSES.txt are kept with it, unaltered;
+   (c) share links to the official distribution pages.
+
+2. What you may not do (without prior written permission)
+   (a) modify, adapt, translate, or create derivative works of the Game;
+   (b) sell, rent, lease, or otherwise charge for the Game, include it in a paid product or
+       service, or use it or any distribution of it for commercial purposes, including
+       monetization through advertising or paid access;
+   (c) decompile, disassemble, reverse engineer, or extract assets (such as images, icons,
+       and text) from the Game, except to the extent that applicable law permits despite
+       this limitation;
+   (d) remove or alter any copyright or license notice;
+   (e) present the Game as your own work, or imply that the author endorses you or your use.
+
+3. Scope
+   These terms apply to the software, graphics, text, and other original content of the Game.
+   They do not restrict anyone from independently implementing the traditional rules of
+   Xiangqi (Cờ Tướng), or similar game ideas, in their own work.
+
+4. Third-party components
+   The Game includes third-party software and fonts under their own licenses, including
+   Godot Engine (MIT License), the Noto fonts (SIL Open Font License 1.1), and, in the
+   Android build, AndroidX and the Kotlin standard library (Apache License 2.0). Their
+   license texts are in LICENSES.txt and on the About screen. Nothing in these terms
+   limits the rights those licenses grant for those components.
+
+5. No warranty
+   THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. TO THE
+   FULLEST EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY ARISING FROM THE USE OF THE GAME.
+
+6. Termination
+   Your rights under these terms end automatically if you breach them.
+
+Official distribution: https://github.com/kken0507/real-time-co-tuong-releases
